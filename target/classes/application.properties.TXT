@@ -1,14 +1,8 @@
-spring.application.name=DIN
-server.port=8080
-server.address=0.0.0.0
-
 spring.datasource.url=jdbc:postgresql://localhost:5432/mydb
 spring.datasource.username=postgres
 spring.datasource.password=2579
-
-# Valfri, Spring Boot hittar drivrutinen själv
 spring.datasource.driver-class-name=org.postgresql.Driver
 
 spring.jpa.hibernate.ddl-auto=update
-spring.jpa.database-platform=org.hibernate.dialect.PostgreSQLDialect
 spring.jpa.show-sql=true
+spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.PostgreSQLDialect

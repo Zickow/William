@@ -1,3 +1,8 @@
-demo\DinApplication.class
 demo\PostgreSQLJDBCExample.class
+UserDatabase.class
+demo\DinApplication.class
+demo\repository\UserRepository.class
+demo\entity\User.class
+demo\controller\HealthCheck.class
+demo\controller\UserController.class
 demo\HomeController.class

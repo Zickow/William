@@ -1,4 +1,4 @@
-package demo.controller;  // Samma paket som HomeController
+package demo;  // Samma paket som HomeController
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

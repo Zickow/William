@@ -1,18 +1,15 @@
 package demo;
-<<<<<<< HEAD
 
-=======
->>>>>>> 8b21376594bc8ce79e233442903eeb2782ff05a7
-// UserDatabase.java
 import java.sql.*;
 import java.io.IOException;
 import java.nio.file.*;
 import java.time.*;
 
 public class UserDatabase {
+    // Byt till rätt databas och lösenord!
     private static final String URL = "jdbc:postgresql://localhost:5432/min_databas";
     private static final String USER = "postgres";
-    private static final String PASSWORD = "ditt_lösenord"; // Byt till ditt riktiga lösenord
+    private static final String PASSWORD = "ditt_lösenord"; // TODO: Byt till ditt riktiga lösenord
     private static final String LOG_FILE = "user_errors.log";
 
     public static void main(String[] args) {

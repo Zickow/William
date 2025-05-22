@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\Zakaria\Desktop\demo\William\src\main\java\demo\DinApplication.java
 C:\Users\Zakaria\Desktop\demo\William\src\main\java\demo\entity\User.java
 C:\Users\Zakaria\Desktop\demo\William\src\main\java\demo\controller\UserController.java
@@ -6,3 +7,9 @@ C:\Users\Zakaria\Desktop\demo\William\src\main\java\demo\HomeController.java
 C:\Users\Zakaria\Desktop\demo\William\src\main\java\demo\repository\UserRepository.java
 C:\Users\Zakaria\Desktop\demo\William\src\main\java\demo\PostgreSQLJDBCExample.java
 C:\Users\Zakaria\Desktop\demo\William\src\main\java\demo\HealthCheck.java
+=======
+D:\William\src\main\java\demo\HomeController.java
+D:\William\src\main\java\demo\UserDatabase.java
+D:\William\src\main\java\demo\PostgreSQLJDBCExample.java
+D:\William\src\main\java\demo\DinApplication.java
+>>>>>>> 8b21376594bc8ce79e233442903eeb2782ff05a7

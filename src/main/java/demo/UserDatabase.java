@@ -1,5 +1,8 @@
 package demo;
+<<<<<<< HEAD
 
+=======
+>>>>>>> 8b21376594bc8ce79e233442903eeb2782ff05a7
 // UserDatabase.java
 import java.sql.*;
 import java.io.IOException;

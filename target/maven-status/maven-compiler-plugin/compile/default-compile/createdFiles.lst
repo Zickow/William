@@ -1,8 +1,12 @@
 demo\PostgreSQLJDBCExample.class
+<<<<<<< HEAD
 UserDatabase.class
 demo\DinApplication.class
 demo\repository\UserRepository.class
 demo\entity\User.class
 demo\controller\HealthCheck.class
 demo\controller\UserController.class
+=======
+demo\UserDatabase.class
+>>>>>>> 8b21376594bc8ce79e233442903eeb2782ff05a7
 demo\HomeController.class
